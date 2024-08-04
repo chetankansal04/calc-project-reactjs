@@ -1,6 +1,6 @@
 <h2>React Web Calculator</h2>
 
-A versatile web-based calculator built using React and HTML. This project offers a user-friendly interface for performing basic arithmetic operations, including addition, subtraction, multiplication, and division.   
+A versatile web-based calculator built using HTML, CSS, JS and ReactJS library. This project offers a user-friendly interface for performing basic arithmetic operations, including addition, subtraction, multiplication, and division.   
 
 Key Features:
 
@@ -16,6 +16,7 @@ Tech Stack:
 React
 HTML
 CSS (optional, for styling)
+JS
 Usage:
 
 Clone the repository
